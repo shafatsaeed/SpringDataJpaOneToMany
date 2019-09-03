@@ -35,8 +35,6 @@ public class Course {
 	}
 	public void setStudentId(Integer studentId) {
 		this.studentId = studentId;
-	}
-	
-	
+	}	
 
 }
